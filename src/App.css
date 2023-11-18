@@ -1,0 +1,242 @@
+.header {
+  width: 100%;
+  height: auto;
+}
+.header-nav {
+  margin: 0 auto;
+  width: 80%;
+}
+.nav-container-list {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.container-list-item {
+  list-style: none;
+}
+.item-link {
+  color: #eee;
+  text-decoration: none;
+}
+.item-link-font{
+  font-weight: bold;
+}
+.item-link:hover{
+  color: #1e9f7e;
+}
+/** M A I N */
+.main {
+  margin: 0 auto;
+  width: 80%;
+}
+/** H O M E*/
+.container-home {
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.container-home-info {
+  max-width: 70ch;
+  padding: 35px 0;
+}
+.home-info-title {
+  font-size: 2em;
+  margin-bottom: 15px;
+}
+@media screen and (max-width: 600px) {
+  .container-home {
+    flex-direction: column-reverse;
+  }
+  .home-info-title {
+    text-align: center;
+    text-wrap: balance;
+  }
+}
+/** C A T E G O R Y S*/
+.container-categorys {
+  height: auto;
+}
+.container-categorys > h2 {
+  text-align: center;
+}
+.container-categorys-cards {
+  padding: 35px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 35px;
+}
+.container-category-card {
+  padding: 30px;
+  height: auto;
+  max-width: 420px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  background-color: #222;
+  border-radius: 6px;
+  transition: background 0.3s ease-in;
+}
+.category-card-flex > strong {
+  display: block;
+  margin-bottom: 4px;
+}
+.container-category-card:hover {
+  background-color: #333;
+}
+.category-card-flex > a {
+  display: block;
+  margin-bottom: 5px;
+  transition: color 0.3s ease;
+}
+.category-card-flex > a:hover {
+  color: rgb(140, 25, 255);
+}
+
+/* * R E S O U R C E S */
+.container-resources {
+  /* min-height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 35px;
+}
+.container-info-resource{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+@media screen and (max-width: 680px){
+  .container-info-resource{
+    flex-direction: column;
+    text-align: center;
+  }
+}
+.container-resources-cards{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 35px;
+}
+.resource-card {
+  margin: 0 auto;
+  padding: 30px 35px;
+  max-width: 320px;  
+  max-height: 200px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  background: #222;
+  /* border: 1px solid #aaa; */
+  gap: 15px;
+  /* text-wrap: balance; */
+  transition: background .3s ease;
+}
+.resource-card:hover{
+  background: #333;
+}
+.resource-card-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.container-resource-description {
+  font-size: 14px;
+  text-wrap: balance;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.container > a {
+  font-weight: bold;
+  font-size: 14px;
+  transition: color .3s ease;
+}
+.container > a:hover {
+  color: #1e9f7e;
+}
+.tag {
+  padding: 5px 15px;
+  background-color: #1e9f7e;
+  font-weight: bold;
+  border-radius: 10px;
+  font-size: 12px;
+}
+/** A B O U T*/
+.container-quote {
+  margin: 55px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container-quote > p{
+  max-width: 60ch;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.container-about-me{
+  padding: 55px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  background-color: transparent;
+  border-radius: 6px;
+}
+.container-aboutMe-img{
+  margin: 0 auto;
+  width: 120px;
+  height: 120px;
+  background-image: url("https://seeklogo.com/images/G/GEARS_of_WAR-logo-FCF3196963-seeklogo.com.png");
+  background-position: center;
+  background-size: cover;
+}
+.container-about-me > strong{
+  text-align: center;
+  font-size: 1.8rem;
+}
+.container-about-me > p{
+  margin : 0 auto;
+  max-width: 80ch;
+  line-height: 26px;
+}
+.container-about-me > small{
+  text-align: center;
+}
+.container-tech{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+/** f o o t e r */
+.footer{
+  width: 100%;
+}
+.container-footer{
+min-height: 80px;
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-list{
+  display: flex;
+  gap: 15px;
+}
+.list-item{
+  list-style: none;
+}
+@media screen and (max-width: 600px) {
+  .container-footer{
+    padding: 35px 0;
+    flex-direction: column-reverse;
+    justify-content: center;
+    gap: 25px;
+  }
+}

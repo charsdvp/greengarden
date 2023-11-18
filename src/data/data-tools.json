@@ -1,0 +1,113 @@
+{
+  "color-tools": [
+    {
+      "name": "Happy Hues",
+      "iconUrl": "https://assets.website-files.com/5dd40aa8049df8748c72d0ee/5dd9b94105da589ba59c4907_happy-hues-fav.png",
+      "description": "See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illustration projects.",
+      "link": "https://www.happyhues.co/",
+      "tag": "free"
+    },
+    {
+      "name": "Color Designer",
+      "iconUrl": "https://colordesigner.io/favicons/favicon-32x32.png",
+      "description": "The main purpose of this tool is to help with building a color palette and generate tints and shades based on it. Just pick a color, and the app does the rest. You can use the preselected colors or the color picker for more control.",
+      "link": "https://colordesigner.io/",
+      "tag": "free"
+    },
+    {
+      "name": "AI Colors",
+      "iconUrl": "https://aicolors.co/assets/favicon.png",
+      "description": "Create cool and unique color palettes with our AI-powered color palette generator. Browse, edit, and visualize your palettes to find the perfect combination for your project.",
+      "link": "https://aicolors.co/",
+      "tag": "free"
+    },
+    {
+      "name": "Color Hunt",
+      "iconUrl": "https://colorhunt.co/img/colorhunt-favicon.svg?2",
+      "description": "Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects.",
+      "link": "https://colorhunt.co/",
+      "tag": "free"
+    },
+    {
+      "name": "Huemint",
+      "iconUrl": "https://huemint.com/assets/img/logo-32.png",
+      "description": "Generate a unique color palette for your website.",
+      "link": "https://huemint.com/brand-intersection/",
+      "tag": "free"
+    },
+    {
+      "name": "Colorca",
+      "iconUrl": "https://colorca.org/favicon-32x32.png",
+      "description": "Design an accessible color palette for digital products in HSLuv color space.",
+      "link": "https://colorca.org/",
+      "tag": "free"
+    }
+  ],
+  "photo-video": [
+    {
+      "name": "Unsplash",
+      "iconUrl": "https://unsplash.com/favicon-32x32.png",
+      "description": "Beautiful free images and photos that you can download and use in any project. Better than any stock or royalty-free photo.",
+      "link": "https://unsplash.com/es",
+      "tag": "free"
+    },
+    {
+      "name": "Pexels",
+      "iconUrl": "https://www.pexels.com/assets/static/images/meta/favicon.ico",
+      "description": "Fotos y vídeos de stock gratis que puedes usar donde quieras. Busca millones de imágenes de stock de alta calidad y libres de regalías. No es necesario mencionar la fuente.",
+      "link": "https://www.pexels.com/es-es/",
+      "tag": "free"
+    },
+    {
+      "name": "Squoosh",
+      "iconUrl": "https://squoosh.app/c/favicon-c9cf50ef.ico",
+      "description": "Squoosh is the ultimate image optimizer that allows you to compress and compare images with different codecs in your browser.",
+      "link": "https://squoosh.app/",
+      "tag": "free"
+    },
+    {
+      "name": "SVGONG",
+      "iconUrl": "https://jakearchibald.github.io/svgomg/imgs/icon.png",
+      "description": "Easy & visual compression of SVG images.",
+      "link": "https://jakearchibald.github.io/svgomg/",
+      "tag": "free"
+    },
+    {
+      "name": "unDraw",
+      "iconUrl": "https://undraw.co/favicon-32x32.png",
+      "description": "Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity.",
+      "link": "https://undraw.co/illustrations",
+      "tag": "free"
+    }
+  ],
+  "others": [
+    {
+      "name": "JSON Data AI",
+      "iconUrl": "https://www.jsondataai.com/favicon.ico",
+      "description": "Get JSON data about anything depending on your prompt.",
+      "link": "https://www.jsondataai.com/",
+      "tag": "free"
+    },
+    {
+      "name": "Tabler Icons",
+      "iconUrl": "https://tabler-icons.io/favicon.ico",
+      "description": "4694 free and open source SVG icons designed with attention to detail to make your design stand out. Highly customizable. No attribution required. For commercial use.",
+      "link": "https://tabler-icons.io/",
+      "tag": "free"
+    },
+    {
+      "name": "Type Scale",
+      "iconUrl": "https://typescale.com/wp-content/themes/typescale/favicon/favicon.ico?ver=1.0.0",
+      "description": "Preview and choose the right type scale for your project. Experiment with font size, scale and different webfonts.",
+      "link": "https://typescale.com/",
+      "tag": "free"
+    },
+    {
+      "name": "svghub",
+      "iconUrl": "https://svghub.vercel.app/favicon-32x32.png",
+      "description": "SVG Hub | Custom-color elements ready to paste into your project.",
+      "link": "https://svghub.vercel.app/",
+      "tag": "free"
+    }
+  ]
+}
